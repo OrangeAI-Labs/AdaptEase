@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Admin paneli
+
+
+using System;
 
 /// <summary>
 /// Summary description for Class1

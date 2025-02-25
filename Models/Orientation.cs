@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Oryantasyon içerik modeli
+
+using System;
 
 /// <summary>
 /// Summary description for Class1

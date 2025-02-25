@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Kullanıcı giriş/çıkış işlemleri
+
+
+using System;
 
 /// <summary>
 /// Summary description for Class1

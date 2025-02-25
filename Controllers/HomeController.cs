@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Ana sayfa için controller
+
+
+using System;
 
 /// <summary>
 /// Summary description for Class1

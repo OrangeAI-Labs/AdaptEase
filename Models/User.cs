@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Kullanıcı modeli
+
+using System;
 
 /// <summary>
 /// Summary description for Class1

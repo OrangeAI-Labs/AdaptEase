@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Video içeriği modeli
+
+using System;
 
 /// <summary>
 /// Summary description for Class1

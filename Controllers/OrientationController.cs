@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Oryantasyon içeriği
+
+
+using System;
 
 /// <summary>
 /// Summary description for Class1

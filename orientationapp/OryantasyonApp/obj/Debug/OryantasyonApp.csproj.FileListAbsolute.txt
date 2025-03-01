@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\OryantasyonApp\OryantasyonApp\obj\Debug\OryantasyonApp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\OryantasyonApp\OryantasyonApp\obj\Debug\OryantasyonApp.csproj.CoreCompileInputs.cache
